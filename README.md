@@ -88,3 +88,5 @@ php artisan test
   <font color="#3465A4">GET</font><font color="#6C7280">|HEAD</font>  <font color="#D3D7CF">api/v1/user/show/</font><font color="#C4A000">{id}</font><font color="#6C7280"> ........................................................................... Dashboard\UsersController@show</font>
   <font color="#C4A000">PUT</font>       <font color="#D3D7CF">api/v1/user/update</font><font color="#6C7280"> ............................................................................ Dashboard\UsersController@update</font>
   <font color="#3465A4">GET</font><font color="#6C7280">|HEAD</font>  <font color="#D3D7CF">sanctum/csrf-cookie</font><font color="#6C7280"> .......................................... sanctum.csrf-cookie › Laravel\Sanctum › CsrfCookieController@show</font></pre>
+  
+  Para la documentación de el esqueleto de request y response nos apoyamos de POSTMAN.
